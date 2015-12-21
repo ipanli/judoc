@@ -1,0 +1,29 @@
+{
+  "name": "judoc",
+  "version": "0.0.1",
+  "description": "an API documentation generator",
+  "bin": {
+    "modoc": "./bin/judoc.js"
+  },
+  "scripts": {
+    "start": "node judoc.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ipanli/judoc.git"
+  },
+  "author": "Julaud<julaudme@gmail.com>",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "bugs": {
+    "url": "https://github.com/ipanli/judoc/issues"
+  },
+  "homepage": "https://github.com/ipanli/judoc",
+  "keywords": [
+    "documentation",
+    "generator",
+    "API"
+  ],
+  "license": "MIT"
+}

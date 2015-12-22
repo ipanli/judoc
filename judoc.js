@@ -50,7 +50,7 @@ eachFile = function(dir) {
 };
 
 // 读取数据
-tpl = fs.readFileSync(path.join(__dirname, 'template.html'), {encoding: 'utf8'});
+tpl = fs.readFileSync(path.join(__dirname, 'tmp.html'), {encoding: 'utf8'});
 eachFile(srcPath);
 
 // 读取注释

@@ -1,9 +1,9 @@
 {
   "name": "judoc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "an API documentation generator",
   "bin": {
-    "modoc": "./bin/judoc.js"
+    "judoc": "./bin/judoc.js"
   },
   "scripts": {
     "start": "node judoc.js"

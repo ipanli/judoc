@@ -9,7 +9,7 @@ npm
     
     judoc --config <configPath>
 
-github (contains mojs example[http://zanjs.com/api/mojs.html],  
+github (contains jujs example[http://zanjs.com/api/jujs.html],  
 so we can run 'node judoc.js --config ./example/judoc.config.json' directly)
     
     git clone https://github.com/ipanli/judoc.git
